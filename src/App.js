@@ -7,9 +7,9 @@ function App() {
 
   return (
     <div>
-      <h1>Hola Mundo.....</h1>
-      <h2>Eleiny Pamela Herrera Laguna</h2>
-      <p>Fecha actual: 8/11/23</p>
+      <h1>Instituto Honorio Delgado Espinoza</h1>
+      <h2>Alex Junior Acsara Huayta</h2>
+      <p>Noche</p>
     </div>
   );
 }
